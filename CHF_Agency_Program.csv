@@ -1,0 +1,194 @@
+﻿agency_id,agency_name,program_id,program_name,program_type,CHF_area_flag,housing_program_flag,housing_type
+11,Accessible Housing Society,215,Newbridge - Accessible Housing Society,Supportive Housing,1,1,Place Based
+11,Accessible Housing Society,216,Chinook House - Accessible Housing Society,Support Services,1,0,n/a
+11,Accessible Housing Society,281,Inclusio - Accessible Housing Society,Supportive Housing,1,1,Place Based
+11,Accessible Housing Society,97,Foundation Place - Accessible Housing Society,Supportive Housing,1,1,Place Based
+11,Accessible Housing Society,98,Bridge to Home - Accessible Housing Society,Supportive Housing,1,1,Scattered Site
+11,Accessible Housing Society,99,Fourth Dimension - Accessible Housing Society,Supportive Housing,1,1,Place Based
+117,Calgary John Howard Society,118,Youth Residential Services - Calgary John Howard Society,Supportive Housing,1,1,Place Based
+117,Calgary John Howard Society,119,HISTORICAL Raido House - Calgary John Howard Society,unknown,1,9,unknown
+117,Calgary John Howard Society,121,HISTORICAL Windsor Park - Calgary John Howard Society,unknown,1,9,unknown
+117,Calgary John Howard Society,154,Youth Services - Calgary John Howard Society,Support Services,1,0,n/a
+117,Calgary John Howard Society,155,Aboriginal Youth Outreach - Calgary John Howard Society,Outreach,1,0,n/a
+117,Calgary John Howard Society,165,Roofs for Youth - Calgary John Howard Society,Supportive Housing,1,1,Scattered Site
+117,Calgary John Howard Society,190,Adult Residential Services - Calgary John Howard Society,unknown,1,0,n/a
+117,Calgary John Howard Society,191,AHRP - Calgary John Howard Society,Supportive Housing,1,1,Scattered Site
+117,Calgary John Howard Society,205,HISTORICAL Roofs for Youth Extension - Calgary John Howard Society,unknown,1,9,unknown
+117,Calgary John Howard Society,229,Youth Advocacy and Support - Calgary John Howard Society,Prevention,1,0,n/a
+117,Calgary John Howard Society,248,HISTORICAL Stepping Stone - Calgary John Howard Society,unknown,1,9,unknown
+134,Discovery House,135,Community Housing - Discovery House,Supportive Housing,1,1,Scattered Site
+134,Discovery House,241,Adaptive Case Management - Discovery House,Supportive Housing,1,1,Scattered Site
+134,Discovery House,276,Housing First Graduates - Community Housing - Discovery House,Graduate Housing Program,1,1,Scattered Site
+136,Metis Calgary Family Services Society,137,Rainbow Lodge - Metis Calgary Family Services Society,Supportive Housing,1,1,Place Based
+136,Metis Calgary Family Services Society,187,In Home Support - Metis Calgary Family Services Society,Support Services,1,0,n/a
+136,Metis Calgary Family Services Society,223,HISTORICAL Positive Parenting Program - Metis Calgary Family Services,Support Services,1,0,n/a
+138,Alpha House,139,HISTORICAL Housing - Alpha House,unknown,1,9,unknown
+138,Alpha House,140,HISTORICAL Encampment - Alpha House,Outreach,1,0,n/a
+138,Alpha House,162,Alpha Housing - Alpha House,Supportive Housing,1,1,Scattered Site
+138,Alpha House,163,Veterans Housing Project - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,164,HISTORICAL Permanent Supportive Housing: Community - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,182,DOAP - Alpha House,Outreach,1,0,n/a
+138,Alpha House,183,Transitional Beds - Alpha House,Transitional Housing,1,1,Place Based
+138,Alpha House,185,HISTORICAL Sunalta Lodging - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,188,Shelter - Alpha House,Emergency Shelter,1,0,n/a
+138,Alpha House,206,Detox - Alpha House,Health Services,1,0,n/a
+138,Alpha House,209,HISTORICAL HOPE - Alpha House,unknown,1,9,unknown
+138,Alpha House,210,Encampment - Alpha House,Outreach,1,0,n/a
+138,Alpha House,258,Aurora on the Park - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,262,HISTORICAL Connect to Care - Alpha House,Support Services,1,0,n/a
+138,Alpha House,264,Francis Manor - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,273,Women's Housing Program - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,277,HISTORICAL Housing First Graduates - Alpha Housing - Alpha House,Graduate Housing Program,1,1,Scattered Site
+138,Alpha House,290,Transit Outreach - Alpha House,Outreach,1,0,n/a
+138,Alpha House,303,DOAP Downtown - Alpha House,Outreach,1,0,n/a
+138,Alpha House,304,DOAP Beltline - Alpha House,Outreach,1,0,n/a
+138,Alpha House,309,The Clayton - Alpha House,Supportive Housing,1,1,Place Based
+138,Alpha House,320,Diversion - Alpha House,Diversion,1,0,n/a
+138,Alpha House,322,Lethbridge Shelter - Alpha House,Emergency Shelter,0,0,n/a
+138,Alpha House,323,Sunalta Lodging House (PBTH) - Alpha House,Supportive Housing,1,1,Place Based
+144,Wood's Homes,145,New Horizon - Wood's Homes,Supportive Housing,1,1,Scattered Site
+144,Wood's Homes,184,HISTORICAL Roofs for Youth - Wood's Homes,Supportive Housing,1,1,unknown
+144,Wood's Homes,231,HISTORICAL Exit Reach - Wood's Homes,Support Services,1,0,n/a
+144,Wood's Homes,308,Rapid Rehousing - Wood's Homes,Rapid Rehousing,1,1,Scattered Site
+146,Aspen Family and Community Network Society,147,HISTORICAL ISACC - Aspen,Supportive Housing,1,1,Scattered Site
+146,Aspen Family and Community Network Society,148,Families Forward - Aspen (HISTORICAL),Support Services,1,0,n/a
+146,Aspen Family and Community Network Society,149,HISTORICAL Families In Transition - Aspen,unknown,1,9,unknown
+146,Aspen Family and Community Network Society,150,Home Stay - Aspen,Prevention,1,0,n/a
+146,Aspen Family and Community Network Society,160,Sustainable Families - Aspen,Supportive Housing,1,1,Scattered Site
+146,Aspen Family and Community Network Society,239,Adaptive Case Management - Aspen,Supportive Housing,1,1,Scattered Site
+146,Aspen Family and Community Network Society,293,Housing First Graduates - Sustainable Families - Aspen,Supportive Housing,1,1,Scattered Site
+146,Aspen Family and Community Network Society,319,Diversion - Aspen,Diversion,1,0,n/a
+158,Calgary Dream Centre,159,Living in Community - Calgary Dream Centre,Supportive Housing,1,1,Scattered Site
+158,Calgary Dream Centre,161,Tower - Calgary Dream Centre,Transitional Housing,1,1,Place Based
+158,Calgary Dream Centre,219,Community Housing Project 2 - Calgary Dream Centre,Supportive Housing,1,1,Scattered Site
+158,Calgary Dream Centre,235,Women's Initiative - Calgary Dream Centre,Supportive Housing,1,1,Place Based
+158,Calgary Dream Centre,275,Housing First Graduates - Community Housing - Calgary Dream Centre,Graduate Housing Program,1,1,Scattered Site
+176,RESET Society,177,Exit - RESET Society,Support Services,1,0,n/a
+176,RESET Society,186,CS-Exit - RESET Society,Support Services,1,0,n/a
+176,RESET Society,234,i-Exit - RESET Society,Supportive Housing,1,1,Place Based
+196,SORCe,253,SORCe - SORCe,Administrative,1,0,n/a
+198,Calgary Drop-In and Rehab Center Society - The DI,199,HISTORICAL Housing with Intensive Supports - The DI,unknown,1,9,unknown
+198,Calgary Drop-In and Rehab Center Society - The DI,200,HISTORICAL Emergency Shelter - The DI,Emergency Shelter,1,0,n/a
+198,Calgary Drop-In and Rehab Center Society - The DI,201,HISTORICAL Transitional Beds - The DI,unknown,1,0,n/a
+198,Calgary Drop-In and Rehab Center Society - The DI,296,Housing Graduates - The DI,unknown,1,0,n/a
+198,Calgary Drop-In and Rehab Center Society - The DI,312,Greenview Rise - The DI,unknown,1,0,n/a
+198,Calgary Drop-In and Rehab Center Society - The DI,315,Diversion - The DI,Diversion,1,0,n/a
+198,Calgary Drop-In and Rehab Center Society - The DI,324,DI Transitional Housing Hotel - The DI,Transitional Housing,1,1,Place Based
+2,Children's Cottage Society,203,HomeLinks - Children's Cottage Society,Supportive Housing,1,1,Scattered Site
+2,Children's Cottage Society,204,Rapid Rehousing - Children's Cottage Society,Rapid Rehousing,1,1,Scattered Site
+2,Children's Cottage Society,222,HomeBridge - Children's Cottage,Prevention,1,0,n/a
+2,Children's Cottage Society,232,EPOP Graduates - Children's Cottage Society,Support Services,1,0,n/a
+2,Children's Cottage Society,240,Adaptive Case Management - Children's Cottage Society,Supportive Housing,1,1,Scattered Site
+2,Children's Cottage Society,288,Housing First Graduates - Rapid Rehousing - Children's Cottage Society,Supportive Housing,1,1,Scattered Site
+2,Children's Cottage Society,294,Housing First Graduates - HomeLinks - Children's Cottage Society,Supportive Housing,1,1,Scattered Site
+2,Children's Cottage Society,295,Housing First Graduates - Adaptive Case Management - Children's Cottage Society,Supportive Housing,1,1,Scattered Site
+2,Children's Cottage Society,306,Pre-Screen HomeBridge - Children's Cottage,Prevention,1,0,n/a
+2,Children's Cottage Society,4,Brenda's House - Children's Cottage Society,Emergency Shelter,1,0,n/a
+2,Children's Cottage Society,40,HISTORICAL Crisis Nursery - Children's Cottage Society,Emergency Shelter,1,0,n/a
+2,Children's Cottage Society,41,HISTORICAL Community Respite - Children's Cottage Society,Support Services,1,0,n/a
+2,Children's Cottage Society,42,HISTORICAL Healthy Families - Children's Cottage Society,Support Services,1,0,n/a
+207,Distress Centre,208,Coordinated Access and Assessment,Administrative,1,0,n/a
+207,Distress Centre,263,Chronic Shelter Users - CAA,Administrative,1,0,n/a
+207,Distress Centre,267,Housing First Graduates,Administrative,1,0,n/a
+207,Distress Centre,286,Program Transfer - CAA,Administrative,1,0,n/a
+212,Kerby Assembly,213,Kerby Rotary Shelter,Emergency Shelter,1,0,n/a
+212,Kerby Assembly,214,Kerby Rotary Shelter Crisis Calls,Support Services,1,0,n/a
+212,Kerby Assembly,266,Kerby Community Elder Abuse Program,Prevention,1,0,n/a
+255,HomeSpace Society,257,Bridgeland and Ophelia Supportive Housing - HomeSpace Society,Supportive Housing,1,1,Place Based
+259,Closer to Home,260,Adaptive Case Management - Closer to Home,Supportive Housing,1,1,Scattered Site
+259,Closer to Home,297,Housing First Graduates - Adaptive Case Management - Closer to Home,Supportive Housing,1,1,Scattered Site
+28,The Alex,115,HISTORICAL Pathways Team 2 (Corrections) HISTORICAL - The Alex,Supportive Housing,1,1,Scattered Site
+28,The Alex,116,Pathways to Housing - The Alex,Supportive Housing,1,1,Scattered Site
+28,The Alex,170,(Historical) Homebase Team 3 - The Alex,Supportive Housing,1,1,Scattered Site
+28,The Alex,197,Abbeydale - The Alex,Supportive Housing,1,1,Place Based
+28,The Alex,265,Prelude - The Alex,Supportive Housing,1,1,Place Based
+28,The Alex,29,Homebase - The Alex,Supportive Housing,1,1,Scattered Site
+28,The Alex,30,(Historical)Homebase Team 2 - The Alex,Supportive Housing,1,1,Scattered Site
+28,The Alex,305,Pathways Assertive Outreach - The Alex,Outreach,1,0,n/a
+28,The Alex,321,Assisted Self-Isolation Site - The Alex,Emergency Shelter,1,0,n/a
+282,Elizabeth Fry Society of Calgary,283,HISTORICAL Prison Community Outreach Program - Elizabeth Fry Society of Calgary,Support Services,1,0,n/a
+282,Elizabeth Fry Society of Calgary,325,Indigenous Shelter Prevention - Elizabeth Fry Society of Calgary,Diversion,1,0,n/a
+301,Safe Haven Foundation,302,Haven's Way - Safe Haven,Supportive Housing,1,1,unknown
+310,Alberta Health Services,311,Primary Health Care Collaborative - Alberta Health Services,Health Services,1,0,n/a
+313,Centre for Newcomers,314,Diversion - Centre for Newcomers,Diversion,1,0,n/a
+313,Centre for Newcomers,328,COVID Housing Support for Vulnerable Populations - Centre for Newcomers,Diversion,1,0,n/a
+43,CUPS - Calgary Society,180,CUPS - Graduate Rent Subsidy Program,Graduate Housing Program,1,1,Scattered Site
+43,CUPS - Calgary Society,181,CUPS - Community Development,Graduate Housing Program,1,1,Scattered Site
+43,CUPS - Calgary Society,242,Adaptive Case Management - CUPS,Supportive Housing,1,1,Scattered Site
+43,CUPS - Calgary Society,254,HISTORICAL CUPS - Inclusive Housing,unknown,1,9,unknown
+43,CUPS - Calgary Society,278,CUPS - Graduate Housing Program,Graduate Housing Program,1,1,Scattered Site
+43,CUPS - Calgary Society,307,CUPS - Community Development - Market Rental,Support Services,1,0,n/a
+43,CUPS - Calgary Society,327,CUPS - Connect 2 Care,Support Services,1,0,n/a
+43,CUPS - Calgary Society,44,CUPS - Housing,unknown,1,1,unknown
+43,CUPS - Calgary Society,45,HISTORICAL CUPS - Outreach/ D.O.A.P.,Outreach,1,0,n/a
+43,CUPS - Calgary Society,71,HISTORICAL CUPS - Medical Clinic,Health Services,1,0,n/a
+43,CUPS - Calgary Society,90,HISTORICAL CUPS - Families,unknown,1,9,unknown
+43,CUPS - Calgary Society,91,CUPS - Key Case Management,Supportive Housing,1,1,Scattered Site
+43,CUPS - Calgary Society,92,HISTORICAL CUPS - Housing Locator,unknown,1,9,unknown
+48,YWCA of Calgary,194,YWCA - Mary Dover STSH,Transitional Housing,1,1,Scattered Site
+48,YWCA of Calgary,195,YWCA - Mary Dover Emergency Shelter,Emergency Shelter,1,0,n/a
+48,YWCA of Calgary,244,YWCA - Intensive Case Management,Outreach,1,0,n/a
+48,YWCA of Calgary,245,YWCA - Community Housing Program - Providence,Supportive Housing,1,1,Place Based
+48,YWCA of Calgary,246,YWCA - Community Housing Program - Croydon,Supportive Housing,1,1,Place Based
+48,YWCA of Calgary,289,YWCA - Mary Dover - Intensive Case Management,Outreach,1,0,n/a
+48,YWCA of Calgary,298,YWCA - Community Housing Program - The Maple,Supportive Housing,1,1,Place Based
+48,YWCA of Calgary,49,YWCA - Community Housing,Supportive Housing,1,1,Scattered Site
+53,The Mustard Seed Calgary,132,Employment - Mustard Seed,Support Services,1,0,n/a
+53,The Mustard Seed Calgary,133,Resident Program - Mustard Seed,Supportive Housing,1,1,Place Based
+53,The Mustard Seed Calgary,153,Health and Wellness - Mustard Seed Downtown,Health Services,1,0,n/a
+53,The Mustard Seed Calgary,211,Spiritual Care - Mustard Seed,Support Services,1,0,n/a
+53,The Mustard Seed Calgary,236,Health and Wellness - Mustard Seed Shelter,Health Services,1,0,n/a
+53,The Mustard Seed Calgary,292,Mustard Seed - Community Hubs,Support Services,1,0,n/a
+53,The Mustard Seed Calgary,317,Diversion -  Mustard Seed,Diversion,1,0,n/a
+53,The Mustard Seed Calgary,54,Street Level - Mustard Seed,Support Services,1,0,n/a
+53,The Mustard Seed Calgary,55,Mustard Seed Shelter - Mustard Seed,Emergency Shelter,1,0,n/a
+53,The Mustard Seed Calgary,56,Housing Plus - Mustard Seed,Supportive Housing,1,1,unknown
+61,Aboriginal Friendship Centre of Calgary - AFCC,166,Aboriginal Homeless Initiative - AFCC,Supportive Housing,1,1,Scattered Site
+61,Aboriginal Friendship Centre of Calgary - AFCC,300,Language Program - AFCC,Support Services,1,0,n/a
+61,Aboriginal Friendship Centre of Calgary - AFCC,326,Indigenous COVID-19 Mental Health Initiative - AFCC,Diversion,1,0,n/a
+61,Aboriginal Friendship Centre of Calgary - AFCC,NULL,NULL,NULL,NULL,NULL,NULL
+61,Aboriginal Friendship Centre of Calgary - AFCC,62,Outreach - AFCC,Outreach,1,0,n/a
+63,CASS - Calgary Alternative Support Services,112,HISTORICAL CASS - Poss-Abilities,Support Services,1,0,n/a
+63,CASS - Calgary Alternative Support Services,285,CASS - Stepping Stone Manor,Supportive Housing,1,1,Place Based
+63,CASS - Calgary Alternative Support Services,64,HISTORICAL CASS - Creative Community Living Activities,Support Services,1,0,n/a
+63,CASS - Calgary Alternative Support Services,65,CASS - Langin Place,Supportive Housing,1,1,Place Based
+66,HISTORICAL Calgary Keys to Recovery Society,67,HISTORICAL Keys to Recovery - Calgary Keys to Recovery Society,Supportive Housing,1,1,Scattered Site
+68,The SHARP Foundation,126,Beswick House - The SHARP Foundation,Supportive Housing,1,1,Place Based
+68,The SHARP Foundation,127,Scott House - The SHARP Foundation,Rapid Rehousing,1,1,Place Based
+68,The SHARP Foundation,128,Project 2011 - The SHARP Foundation,Supportive Housing,1,1,Place Based
+68,The SHARP Foundation,129,Project Kathleen - The SHARP Foundation,Supportive Housing,1,1,Place Based
+68,The SHARP Foundation,130,Carlyle Commons - The SHARP Foundation,Supportive Housing,1,1,Place Based
+68,The SHARP Foundation,131,Outreach and Prevention - The SHARP Foundation,Outreach & Prevention,1,0,n/a
+68,The SHARP Foundation,243,Shell,Administrative,1,0,n/a
+68,The SHARP Foundation,271,Intake Program - The SHARP Foundation,Administrative,1,0,n/a
+68,The SHARP Foundation,280,Murray's House - The SHARP Foundation,Supportive Housing,1,1,Place Based
+7,Inn From the Cold,13,Inn From The Cold Emergency Family Shelter,Emergency Shelter,1,0,n/a
+7,Inn From the Cold,220,Inn From The Cold Child Development,Support Services,1,0,n/a
+7,Inn From the Cold,221,Inn From The Cold - New Journeys,Rapid Rehousing,1,1,Scattered Site
+7,Inn From the Cold,224,Inn From The Cold Journey House 1,Supportive Housing,1,1,Place Based
+7,Inn From the Cold,225,Inn From The Cold - Knox,Emergency Shelter,1,0,n/a
+7,Inn From the Cold,279,Inn From The Cold Journey House 2,Supportive Housing,1,1,Place Based
+7,Inn From the Cold,287,Adaptive Case Management - Inn From The Cold,Supportive Housing,1,1,Scattered Site
+7,Inn From the Cold,88,Inn From The Cold Floating Outreach,Outreach,1,0,n/a
+7,Inn From the Cold,89,Inn From The Cold - Housing with Intensive Supports,Supportive Housing,1,1,Scattered Site
+8,Boys and Girls Clubs Calgary,103,Haven's Way - Boys and Girls Clubs Calgary,Supportive Housing,1,1,Scattered Site
+8,Boys and Girls Clubs Calgary,104,The Infinity Project - Boys and Girls Clubs Calgary,Supportive Housing,1,1,Scattered Site
+8,Boys and Girls Clubs Calgary,192,Hope Phone - Boys and Girls Clubs Calgary,Prevention,1,0,n/a
+8,Boys and Girls Clubs Calgary,217,Script - Boys and Girls Clubs Calgary,Prevention,1,0,n/a
+8,Boys and Girls Clubs Calgary,218,Elements - Boys & Girls Club Calgary,Supportive Housing,1,1,unknown
+8,Boys and Girls Clubs Calgary,226,Home Fire - Boys and Girls Clubs Calgary,Supportive Housing,1,1,Scattered Site
+8,Boys and Girls Clubs Calgary,230,Aura - Boys and Girls Clubs Calgary,Supportive Housing,1,1,Scattered Site
+8,Boys and Girls Clubs Calgary,238,(HISTORICAL) Diversion - Boys and Girls Club Calgary,Prevention,1,0,n/a
+8,Boys and Girls Clubs Calgary,272,(HISTORICAL) Toni Kohn House - Boys and Girls Clubs Calgary,Supportive Housing,1,1,Place Based
+8,Boys and Girls Clubs Calgary,291,Unity Project - Boys and Girls Clubs Calgary,Outreach,1,0,n/a
+8,Boys and Girls Clubs Calgary,318,Diversion - Boys and Girls Club Calgary,Diversion,1,0,n/a
+9,"McMan Youth, Family & Community Services Association",122,Youth Homelessness - McMan,unknown,1,0,n/a
+9,"McMan Youth, Family & Community Services Association",123,Hope Homes Program - McMan,Supportive Housing,1,1,Scattered Site
+9,"McMan Youth, Family & Community Services Association",124,Aboriginal Hope Homes Program - McMan,Supportive Housing,1,1,Scattered Site
+9,"McMan Youth, Family & Community Services Association",125,HISTORICAL Wellington Place - McMan,unknown,1,9,unknown
+9,"McMan Youth, Family & Community Services Association",175,Community - McMan,unknown,1,0,n/a
+9,"McMan Youth, Family & Community Services Association",193,Hope Homes Family Preservation - McMan,Support Services,1,0,n/a
+9,"McMan Youth, Family & Community Services Association",233,Home Provider Supportive Housing - McMan,Supportive Housing,1,1,Scattered Site
+9,"McMan Youth, Family & Community Services Association",261,Rapid Rehousing - McMan,Rapid Rehousing,1,1,Scattered Site
+93,Calgary Homeless Foundation,156,HISTORICAL Housing - Calgary Homeless Foundation,unknown,1,9,unknown
+93,Calgary Homeless Foundation,157,HISTORICAL Point in Time Count - Calgary Homeless Foundation,Outreach,1,0,n/a
