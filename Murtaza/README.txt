@@ -1,0 +1,17 @@
+1. "Alpha House" in CHF Agency Program replaced with "CALGARY ALPHA HOUSE SOCIETY"
+2. "Wood's Homes" in CHF Agency Program replaced with "WOOD’S HOMES"
+3. "ASPEN FAMILY & COMMUNITY NETWORK ,Calgary, AB, CA" in Orgazinzation replaced with "Aspen Family and Community Network Society"
+4. "RESET Society" in CHF Agency Program replaced with "RESET SOCIETY OF CALGARY"
+5. "Calgary Drop-In and Rehab Center Society - The DI" in CHF Agency Program replaced with "CALGARY DROP-IN & REHAB CENTRE SOCIETY"
+6. "THE CHILDREN'S COTTAGE SOCIETY OF CALGARY, AN ALBERTA SOCIETY" in Organization replaced with "Children's Cottage Society"
+7. "Distress Centre" in CHF Agency Program replaced with "DISTRESS CENTRE CALGARY"
+8. "Safe Haven Foundation" in CHF Agency Program replaced with "SAFE HAVEN FOUNDATION OF CANADA"
+9. "Centre for Newcomers" in CHF Agency Program replaced with "CENTRE FOR NEWCOMERS SOCIETY OF CALGARY"
+10. "CUPS - Calgary Society" in CHF Agency Program repalced with "CUPS CALGARY SOCIETY"
+11. "YWCA of Calgary" in CHF Agency Program and "CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION" in organization replaced with "YWCA Calgary" In both sheets
+12. "THE MUSTARD SEED" in organization replaced with "The Mustard Seed Calgary"
+13. "ABORIGINAL FRIENDSHIP CENTRE OF CALGARY" in organization replaced with "Aboriginal Friendship Centre of Calgary - AFCC"
+14. "CALGARY ALTERNATIVE SUPPORT SERVICES" in organization replaced with CASS - Calgary Alternative Support Services"
+15. "HISTORICAL Calgary Keys to Recovery Society" in CHF Agency Program and "CALGARY KEYS TO RECOVERY SOCIETY" in organization repalced with "KEYS TO RECOVERY SOCIETY-CALGARY" in both sheets
+16. "THE S.H.A.R.P. FOUNDATION" in organization replaced with "The SHARP Foundation"
+17. "Boys and Girls Clubs Calgary" in CHF Agency Program replaced with "BOYS AND GIRLS CLUBS OF CALGARY"
