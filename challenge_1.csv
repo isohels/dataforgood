@@ -68,14 +68,14 @@ agency_id,agency_name,program_name,organization_id,organization_name,missing_rea
 43,CUPS - Calgary Society,HISTORICAL CUPS - Families,206,CUPS CALGARY SOCIETY,,1,CUPS - Calgary Society,,,,,,
 43,CUPS - Calgary Society,CUPS - Key Case Management,206,CUPS CALGARY SOCIETY,,1,CUPS - Calgary Society,,,,,,
 43,CUPS - Calgary Society,HISTORICAL CUPS - Housing Locator,206,CUPS CALGARY SOCIETY,,1,CUPS - Calgary Society,,,,,,
-48,YWCA of Calgary,YWCA - Mary Dover STSH,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,Calgary YWCA,Short Term Suppposrtive,Calgary,80,94,2013
-48,YWCA of Calgary,YWCA - Mary Dover Emergency Shelter,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,Women Emergency,Calgary,6,6,2013
-48,YWCA of Calgary,YWCA - Intensive Case Management,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,Winter Emergency,Calgary,0,,2013
-48,YWCA of Calgary,YWCA - Community Housing Program - Providence,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,,,,,
-48,YWCA of Calgary,YWCA - Community Housing Program - Croydon,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,,,,,
-48,YWCA of Calgary,YWCA - Mary Dover - Intensive Case Management,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,,,,,
-48,YWCA of Calgary,YWCA - Community Housing Program - The Maple,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,,,,,
-48,YWCA of Calgary,YWCA - Community Housing,nan,,Couldn't look up information in Organization Table,0,YWCA of Calgary,,,,,,
+48,YWCA of Calgary,YWCA - Mary Dover STSH,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,Calgary YWCA,Short Term Suppposrtive,Calgary,80,94,2013
+48,YWCA of Calgary,YWCA - Mary Dover Emergency Shelter,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,Women Emergency,Calgary,6,6,2013
+48,YWCA of Calgary,YWCA - Intensive Case Management,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,Winter Emergency,Calgary,0,,2013
+48,YWCA of Calgary,YWCA - Community Housing Program - Providence,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,,,,,
+48,YWCA of Calgary,YWCA - Community Housing Program - Croydon,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,,,,,
+48,YWCA of Calgary,YWCA - Mary Dover - Intensive Case Management,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,,,,,
+48,YWCA of Calgary,YWCA - Community Housing Program - The Maple,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,,,,,
+48,YWCA of Calgary,YWCA - Community Housing,141,CALGARY YOUNG WOMEN'S CHRISTIAN ASSOCIATION,,1,YWCA of Calgary,,,,,,
 53,The Mustard Seed Calgary,Employment - Mustard Seed,482,THE MUSTARD SEED,,1,The Mustard Seed Calgary,Mustard Seed Calgary,Adult Emergency,Calgary,350,370,
 53,The Mustard Seed Calgary,Resident Program - Mustard Seed,482,THE MUSTARD SEED,,1,The Mustard Seed Calgary,,,,,,
 53,The Mustard Seed Calgary,Health and Wellness - Mustard Seed Downtown,482,THE MUSTARD SEED,,1,The Mustard Seed Calgary,,,,,,
